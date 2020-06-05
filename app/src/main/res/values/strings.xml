@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="database_name">database</string>
+    <string name="save">Save</string>
+    <string name="restore">Restore</string>
+    <string name="put_contact_key">contact</string>
+    <string name="first_name_hint">First name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="email_hint">Email</string>
+    <string name="avatar_description">Avatar</string>
+    <string name="delete_button_description">Delete button</string>
+</resources>
